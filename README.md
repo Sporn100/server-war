@@ -1,2 +1,2 @@
 # server-war
-counterstrike warserver
+counterstrike war-server
